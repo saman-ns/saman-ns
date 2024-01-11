@@ -1,16 +1,30 @@
-### Hi there 👋
+👋 Hello, World! I'm Saman, a passionate data enthusiast on a journey to unlock the potential of data science to help people. 🌐
 
-<!--
-**saman-ns/saman-ns** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🏥 Aspiring Data Scientist:
 
-Here are some ideas to get you started:
+🎓 Currently pursuing a Data Science Diploma at Brainstation
+💡 Exploring the intersection of data science, medicine, and technology
+🌱 Learning and growing every day to make a positive impact with an innovative mindset 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🚀 What I'm Working On:
+
+📊 Analyzing healthcare datasets to derive actionable insights
+🤖 Developing machine learning models for predictive healthcare analytics
+📈 Visualizing health trends and patterns for informed decision-making
+📝 Sharing my learning journey and insights through blog posts and articles
+
+💼 Professional Experience:
+
+🔬 Laboratory Technician at Public Health Ontario, where I specialized in whole genome sequencing, contributing to vital research in genomics for informed public health strategies.
+🔧 Tools and Technologies:
+
+💻 Proficient in Python, R, SQL
+📊 Data wrangling with pandas, NumPy
+🤖 Machine learning with scikit-learn, TensorFlow, and PyTorch
+📈 Data visualization using Matplotlib, Seaborn, and Tableau
+📱 Familiar with healthcare data standards and interoperability
+🤝 Let's Connect:
+
+📧 Email: nasoori.saman@gmail.com
+💼 LinkedIn: linkedin.com/in/saman-nasoori
+🌟 Excited to collaborate, learn, and contribute to the fascinating world of data-driven healthcare! 🚀 Let's make a difference together!
