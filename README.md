@@ -2,29 +2,31 @@
 
 🏥 Aspiring Data Scientist:
 
-🎓 Currently pursuing a Data Science Diploma at Brainstation
-💡 Exploring the intersection of data science, medicine, and technology
-🌱 Learning and growing every day to make a positive impact with an innovative mindset 
+🎓 Currently pursuing a Data Science Diploma at Brainstation  
+💡 Exploring the intersection of data science, medicine, and technology  
+🌱 Learning and growing every day to make a positive impact with an innovative mindset   
 
 🚀 What I'm Working On:
 
-📊 Analyzing healthcare datasets to derive actionable insights
-🤖 Developing machine learning models for predictive healthcare analytics
-📈 Visualizing health trends and patterns for informed decision-making
-📝 Sharing my learning journey and insights through blog posts and articles
+📊 Analyzing healthcare datasets to derive actionable insights  
+🤖 Developing machine learning models for predictive healthcare analytics  
+📈 Visualizing health trends and patterns for informed decision-making  
+📝 Sharing my learning journey and insights through blog posts and articles  
 
 💼 Professional Experience:
 
-🔬 Laboratory Technician at Public Health Ontario, where I specialized in whole genome sequencing, contributing to vital research in genomics for informed public health strategies.
+🔬 Analytical chemist at SGS Canada, where I specialized in Product testing and method development, contributing to vital research drug development.  
+💻 Data scientist at TNCT Inc., where conducted detailed data analysis to identify opportunities for service optimization.  
+  
 🔧 Tools and Technologies:
+💻 Proficient in Python, R, SQL  
+📊 Data wrangling with pandas, NumPy  
+🤖 Machine learning with scikit-learn, TensorFlow, and PyTorch  
+📈 Data visualization using Matplotlib, Seaborn, and Tableau  
+📱 Familiar with healthcare data standards and interoperability  
 
-💻 Proficient in Python, R, SQL
-📊 Data wrangling with pandas, NumPy
-🤖 Machine learning with scikit-learn, TensorFlow, and PyTorch
-📈 Data visualization using Matplotlib, Seaborn, and Tableau
-📱 Familiar with healthcare data standards and interoperability
 🤝 Let's Connect:
 
-📧 Email: nasoori.saman@gmail.com
-💼 LinkedIn: linkedin.com/in/saman-nasoori
-🌟 Excited to collaborate, learn, and contribute to the fascinating world of data-driven healthcare! 🚀 Let's make a difference together!
+📧 Email: nasoori.saman@gmail.com  
+💼 LinkedIn: linkedin.com/in/saman-nasoori  
+🌟 Excited to collaborate, learn, and contribute to the fascinating world of data-driven healthcare! 🚀 Let's make a difference together!  
